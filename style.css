@@ -1,9 +1,16 @@
 h1{
     color: rgb(224, 125, 12);
+    font-size: 20px;
 }
 body{
     background-color: rgba(184, 37, 0, 0.185);
 }
 p{
-    background-color: black;
+    background-color: rgba(92, 226, 14, 0.966);
+    color:azure;
+
+}
+p:hover{
+    background-color: azure;
+    color:rgba(92, 226, 14, 0.966);
 }
